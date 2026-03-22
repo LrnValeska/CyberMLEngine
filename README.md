@@ -32,3 +32,4 @@ O CyberMLEngine é um Sistema de Detecção de Intrusão (IDS) em tempo real que
    streamlit run app.py
 
 Desenvolvido por Lorena Valeska
+---
